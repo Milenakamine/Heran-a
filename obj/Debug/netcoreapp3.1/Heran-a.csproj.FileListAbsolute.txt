@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\bin\Debug\netcoreapp3.1\Heran-a.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\bin\Debug\netcoreapp3.1\Heran-a.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\bin\Debug\netcoreapp3.1\Heran-a.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\bin\Debug\netcoreapp3.1\Heran-a.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\bin\Debug\netcoreapp3.1\Heran-a.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\bin\Debug\netcoreapp3.1\Heran-a.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Herança\Heran-a\obj\Debug\netcoreapp3.1\Heran-a.genruntimeconfig.cache
